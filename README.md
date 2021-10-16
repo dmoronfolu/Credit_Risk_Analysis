@@ -43,6 +43,7 @@ https://github.com/dmoronfolu/Credit_Risk_Analysis/blob/93c6a9651b29f48d8acec37c
 
 
 Summary
+
 In the first deliverable, we calculated the accuracy score, a confusion matrix was generated, and an imbalanced classification report was generated for the three algorithms used.
 
 In the second deliverable, we used the SMOTEENN algorithm to resample the data from the first deliverable and predict Credit risk. And in the third deliverable, we used the BalancedRandomForestClassifier and EasyEnsemble Classifier to resample the data and predict Credit Risk. For each algorithm used, we calculated the accuracy score, confusion matric and imbalanced generated the imbalanced classification report. 
